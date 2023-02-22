@@ -151,7 +151,7 @@ Our team of developers is passionate about software development and is committed
 <br/>  
 
 
-## Connect with me  
+## Connect with us  
 <div align="center">
 <a href="https://github.com/PYLOGiX-COM" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
