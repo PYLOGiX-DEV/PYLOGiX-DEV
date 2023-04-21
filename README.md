@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-### - [The Ultimate Guide to Pylogix PLC: Everything You Need to Know](https://pylogix.com/the-ultimate-guide-to-pylogix-plc-everything-you-need-to-know/)
-### - [Using AI to scale wealth management: Opportunities and Challenges](https://pylogix.com/using-ai-to-scale-wealth-management-opportunities-and-challenges/)
-### - [Robotic process automation in banking: use cases, benefits, and challenges](https://pylogix.com/robotic-process-automation-in-banking-use-cases-benefits-and-challenges/)
-### - [How it all started? – The History of Python](https://pylogix.com/how-it-all-started-the-history-of-python/)
-### - [Top mistakes during MVP development](https://pylogix.com/top-mistakes-during-mvp-development/)
+- [The Ultimate Guide to Pylogix PLC: Everything You Need to Know](https://pylogix.com/the-ultimate-guide-to-pylogix-plc-everything-you-need-to-know/)
+- [Using AI to scale wealth management: Opportunities and Challenges](https://pylogix.com/using-ai-to-scale-wealth-management-opportunities-and-challenges/)
+- [Robotic process automation in banking: use cases, benefits, and challenges](https://pylogix.com/robotic-process-automation-in-banking-use-cases-benefits-and-challenges/)
+- [How it all started? – The History of Python](https://pylogix.com/how-it-all-started-the-history-of-python/)
+- [Top mistakes during MVP development](https://pylogix.com/top-mistakes-during-mvp-development/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
