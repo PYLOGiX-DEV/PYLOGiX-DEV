@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Django Caching](https://pylogix.com/a-comprehensive-guide-to-django-caching/)
-- [CSS Viewport Units: vh, vw, vmin, and vmax](https://pylogix.com/css-viewport-units-vh-vw-vmin-and-vmax/)
-- [An Introduction to the Bun JavaScript Runtime](https://pylogix.com/an-introduction-to-the-bun-javascript-runtime/)
-- [Build a Simple Beginner App with Node, Bootstrap and MongoDB](https://pylogix.com/build-a-simple-beginner-app-with-node-bootstrap-and-mongodb/)
-- [20+ Tools for Node.js Development in 2023](https://pylogix.com/20-tools-for-node-js-development-in-2023/)
+- [Azure DevOps vs GitHub: Which DevOps Tool Should You Choose?](https://pylogix.com/azure-devops-vs-github-which-devops-tool-should-you-choose/)
+- [Best Backend as a Service &lpar;BaaS&rpar; in 2023](https://pylogix.com/best-backend-as-a-service-baas-in-2023/)
+- [How to use the Fetch API in Node.js, Deno, and Bun](https://pylogix.com/how-to-use-the-fetch-api-in-node-js-deno-and-bun/)
+- [How to Send Emails with React Using Resend](https://pylogix.com/how-to-send-emails-with-react-using-resend/)
+- [Python String Methods, with Examples](https://pylogix.com/python-string-methods-with-examples/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
