@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How to Create CSS Ribbon Shapes with a Single Element](https://pylogix.com/how-to-create-css-ribbon-shapes-with-a-single-element/)
-- [The Best WordPress SEO Plugins for 2023](https://pylogix.com/the-best-wordpress-seo-plugins-for-2023/)
-- [A Complete Guide to LangChain in Python](https://pylogix.com/a-complete-guide-to-langchain-in-python/)
-- [Top 9 Best WordPress AI Plugins of 2023](https://pylogix.com/top-9-best-wordpress-ai-plugins-of-2023/)
-- [How to Use the CSS Grid repeat&lpar;&rpar; Function](https://pylogix.com/how-to-use-the-css-grid-repeat-function/)
+- [Fetching Data from an HTTP API with Python](https://pylogix.com/fetching-data-from-an-http-api-with-python/)
+- [How to Use CSS background-size and background-position](https://pylogix.com/how-to-use-css-background-size-and-background-position/)
+- [Crafting Targeted Email Campaigns with Mailchimp and Drupal](https://pylogix.com/crafting-targeted-email-campaigns-with-mailchimp-and-drupal/)
+- [A Comprehensive Comparison of TypeScript Type vs Interface](https://pylogix.com/a-comprehensive-comparison-of-typescript-type-vs-interface/)
+- [How Does Kubernetes Benefit Developers?](https://pylogix.com/how-does-kubernetes-benefit-developers/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
