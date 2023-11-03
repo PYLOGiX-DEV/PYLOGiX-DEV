@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Fetching Data from an HTTP API with Python](https://pylogix.com/fetching-data-from-an-http-api-with-python/)
-- [How to Use CSS background-size and background-position](https://pylogix.com/how-to-use-css-background-size-and-background-position/)
-- [Crafting Targeted Email Campaigns with Mailchimp and Drupal](https://pylogix.com/crafting-targeted-email-campaigns-with-mailchimp-and-drupal/)
-- [A Comprehensive Comparison of TypeScript Type vs Interface](https://pylogix.com/a-comprehensive-comparison-of-typescript-type-vs-interface/)
-- [How Does Kubernetes Benefit Developers?](https://pylogix.com/how-does-kubernetes-benefit-developers/)
+- [Node.js vs .NET Core: What to Choose in 2023?](https://pylogix.com/node-js-vs-net-core-what-to-choose-in-2023/)
+- [An Introduction to Data Encoding and Decoding in Data Science](https://pylogix.com/an-introduction-to-data-encoding-and-decoding-in-data-science/)
+- [10 of the Best Programming Fonts](https://pylogix.com/10-of-the-best-programming-fonts/)
+- [How to Use CSS object-fit and object-position](https://pylogix.com/how-to-use-css-object-fit-and-object-position/)
+- [Understanding Modules and Packages in Python](https://pylogix.com/understanding-modules-and-packages-in-python/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
