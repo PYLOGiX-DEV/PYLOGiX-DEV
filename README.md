@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How a sound engineer builds coding skills on Pylogix Learn](https://pylogix.com/how-a-sound-engineer-builds-coding-skills-on-pylogix-learn/)
-- [How to Create Content in WordPress with AI — Pylogix](https://pylogix.com/how-to-create-content-in-wordpress-with-ai-pylogix/)
-- [How to become a prompt engineer: Skills &amp; career path guide](https://pylogix.com/how-to-become-a-prompt-engineer-skills-career-path-guide/)
-- [How to Deploy Apache Airflow on Vultr Using Anaconda — Pylogix](https://pylogix.com/how-to-deploy-apache-airflow-on-vultr-using-anaconda-pylogix/)
-- [How a tech consultant boosts her coding skills with Pylogix Learn](https://pylogix.com/how-a-tech-consultant-boosts-her-coding-skills-with-pylogix-learn/)
+- [Creating Fluid Typography with the CSS clamp&lpar;&rpar; Function — Pylogix](https://pylogix.com/creating-fluid-typography-with-the-css-clamp-function-pylogix/)
+- [Enhancing DevSecOps Workflows with Generative AI](https://pylogix.com/enhancing-devsecops-workflows-with-generative-ai/)
+- [Revolution or Overpromise? — Pylogix](https://pylogix.com/revolution-or-overpromise-pylogix/)
+- [Mastering the SQL Server command-line interface](https://pylogix.com/mastering-the-sql-server-command-line-interface/)
+- [What we learned when we gave developers access to an AI-powered tutor](https://pylogix.com/what-we-learned-when-we-gave-developers-access-to-an-ai-powered-tutor/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
