@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Modern Hiring Decisions](https://pylogix.com/how-to-make-modern-hiring-decisions/)
-- [Best Skills-Based Hiring Platforms for Scaling Hiring &lpar;2026&rpar;](https://pylogix.com/best-skills-based-hiring-platforms-for-scaling-hiring-2026/)
-- [Modern Hire Alternatives &amp; Competitors: Best Platforms for 2026](https://pylogix.com/modern-hire-alternatives-competitors-best-platforms-for-2026/)
-- [AI interview alternatives for modern hiring teams](https://pylogix.com/ai-interview-alternatives-for-modern-hiring-teams/)
-- [How a Recent Grad Built a 660+ Day Streak on Pylogix Learn](https://pylogix.com/how-a-recent-grad-built-a-660-day-streak-on-pylogix-learn/)
+- [How to choose a custom software development partner](https://pylogix.com/how-to-choose-software-development-partner/)
+- [In-house team or outsourced partner? An honest comparison](https://pylogix.com/in-house-vs-outsourced-software-development/)
+- [What actually happens in a software discovery phase](https://pylogix.com/software-discovery-phase/)
+- [Why software projects run over budget: seven signals to catch early](https://pylogix.com/why-software-projects-run-over-budget/)
+- [What custom software actually costs, with the numbers](https://pylogix.com/custom-software-development-cost/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
