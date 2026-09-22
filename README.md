@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How to choose a custom software development partner](https://pylogix.com/how-to-choose-software-development-partner/)
-- [In-house team or outsourced partner? An honest comparison](https://pylogix.com/in-house-vs-outsourced-software-development/)
-- [What actually happens in a software discovery phase](https://pylogix.com/software-discovery-phase/)
-- [Why software projects run over budget: seven signals to catch early](https://pylogix.com/why-software-projects-run-over-budget/)
-- [What custom software actually costs, with the numbers](https://pylogix.com/custom-software-development-cost/)
+- [Data readiness: what your data needs before any ML project](https://pylogix.com/data-readiness-for-machine-learning/)
+- [Security and compliance to specify before development starts](https://pylogix.com/software-security-requirements/)
+- [Flutter or native: choosing a mobile stack against your budget](https://pylogix.com/flutter-vs-native-app-development/)
+- [Shopify Plus or headless commerce: choosing for your catalog and your team](https://pylogix.com/shopify-plus-vs-headless-commerce/)
+- [Replatforming from Magento or WooCommerce: what breaks and what it costs](https://pylogix.com/magento-to-shopify-migration-cost/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
